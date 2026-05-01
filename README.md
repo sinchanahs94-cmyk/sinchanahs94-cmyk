@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinchana HS</h1>
-<h3 align="center">Full Stack Python Developer & Data Analytics Enthusiast | Django • Flask • Python • SQL • ML</h3>
+<h3 align="center">Full Stack Python Developer & Data Analytics Enthusiast | Django • Flask • Python • SQL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinchanahs94-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="sinchanahs94-cmyk" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **- Python, Django, Flask, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **sinchanahs94@gmail.com - 🔗 LinkedIn: Sinchana H S**
+- 📫 How to reach me **sinchanahs94@gmail.com - 🔗 LinkedIn: https://www.linkedin.com/in/sinchana-h-s-768ba530b**
 
 - ⚡ Fun fact **I debug code faster than I find bugs 😄**
 
